@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myait/static/css/main.5f361e03.chunk.css",
+    "main.js": "/myait/static/js/main.693e41db.chunk.js",
+    "main.js.map": "/myait/static/js/main.693e41db.chunk.js.map",
+    "runtime-main.js": "/myait/static/js/runtime-main.af3d2076.js",
+    "runtime-main.js.map": "/myait/static/js/runtime-main.af3d2076.js.map",
+    "static/js/2.b3230f47.chunk.js": "/myait/static/js/2.b3230f47.chunk.js",
+    "static/js/2.b3230f47.chunk.js.map": "/myait/static/js/2.b3230f47.chunk.js.map",
+    "index.html": "/myait/index.html",
+    "precache-manifest.b139cf7a36853da13b471270e4965a5f.js": "/myait/precache-manifest.b139cf7a36853da13b471270e4965a5f.js",
+    "service-worker.js": "/myait/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/myait/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b3230f47.chunk.js.LICENSE.txt": "/myait/static/js/2.b3230f47.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/myait/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af3d2076.js",
+    "static/js/2.b3230f47.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.693e41db.chunk.js"
+  ]
+}
