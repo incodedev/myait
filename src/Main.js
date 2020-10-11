@@ -4,7 +4,14 @@ class Main extends Component {
     render() {
         return (
             <React.Fragment>
-                Hello World!
+                <header>
+                    <nav>
+                        This is navigation bar.
+                    </nav>
+                </header>
+                <div className="main-body" >This is Body</div>
+
+                <footer class="main-footer">This is Main Footer</footer>
             </React.Fragment>
         );
     }
